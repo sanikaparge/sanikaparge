@@ -1,160 +1,102 @@
- <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:38BDF8,50:818CF8,100:34D399" />
+ <!-- Profile README for github.com/sanikaparge/sanikaparge -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:07111F,45:123B62,100:06B6D4&text=Sanika%20Parge&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineering&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Sanika Parge — Cloud and DevOps Engineering" />
 </p>
 
 <p align="center">
-  <br />
-  <samp>HELLO, WORLD. I'M</samp>
-</p>
-
-<h1 align="center">Sanika Parge</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=2200&pause=650&color=94A3B8&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps+Engineer;AWS+%C2%B7+Linux+%C2%B7+Docker+%C2%B7+Kubernetes;Building+systems.+Solving+problems.;Infrastructure+with+purpose." alt="Animated introduction" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sanika-parge-b49827281/"><img src="https://img.shields.io/badge/LinkedIn-Connect-64748B?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sanika-parge-b49827281/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   &nbsp;
-  <a href="https://github.com/sanikaparge"><img src="https://img.shields.io/badge/GitHub-Projects-64748B?style=flat&logo=github&logoColor=white" /></a>
-</p>
-
-<br />
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=30363D" width="85%" />
-</p>
-
-<h3 align="center">01 &nbsp; / &nbsp; THE ENGINEERING MINDSET</h3>
-
-<p align="center">
-  <i>From infrastructure fundamentals to reliable application deployments.</i>
-</p>
-
-I work with cloud and container technologies to understand how applications are built, deployed, connected, and maintained.
-
-My focus is practical engineering: learning how systems behave, troubleshooting failures, and turning technical concepts into working projects.
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2500&pause=700&color=64748B&center=true&vCenter=true&width=600&lines=Understand+the+infrastructure;Automate+the+repeatable;Troubleshoot+the+unexpected;Build+for+reliability" alt="Engineering principles" />
-</p>
-
-<br />
-
-<h3 align="center">02 &nbsp; / &nbsp; THE TOOLBOX</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,git,github,nginx,python,flask,postgresql,terraform&theme=dark&perline=6" alt="Technology stack" />
+  <a href="https://github.com/sanikaparge">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 <p align="center">
-  <sub>
-    CLOUD INFRASTRUCTURE &nbsp; · &nbsp; SYSTEM ADMINISTRATION &nbsp; · &nbsp; CONTAINERS<br />
-    ORCHESTRATION &nbsp; · &nbsp; VERSION CONTROL &nbsp; · &nbsp; INFRASTRUCTURE AS CODE
-  </sub>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Cloud+Infrastructure+%7C+AWS;Linux+%7C+Docker+%7C+Kubernetes;Automate.+Deploy.+Troubleshoot.+Improve." alt="Cloud and DevOps engineering focus" />
 </p>
 
-<br />
+---
+
+### About
+
+I focus on building, deploying, and troubleshooting applications using cloud infrastructure and container technologies.
+
+My approach is hands-on: understand the infrastructure, automate repeatable tasks, and build systems that are easier to deploy and maintain.
+
+### Technical stack
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=30363D" width="85%" />
+  <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,git,github,gitlab,terraform,python,flask,postgresql&perline=6" alt="AWS, Linux, Docker, Kubernetes, Git, GitHub, GitLab, Terraform, Python, Flask and PostgreSQL" />
 </p>
-
-<h3 align="center">03 &nbsp; / &nbsp; SELECTED WORK</h3>
 
 <p align="center">
-  <samp>PROJECTS OVER PROMISES</samp>
+  <sub>CLOUD &nbsp; · &nbsp; LINUX &nbsp; · &nbsp; CONTAINERS &nbsp; · &nbsp; ORCHESTRATION &nbsp; · &nbsp; VERSION CONTROL &nbsp; · &nbsp; IaC</sub>
 </p>
+
+---
+
+### Featured engineering projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <p><sub>PROJECT 01 &nbsp; / &nbsp; APPLICATION ENGINEERING</sub></p>
-      <h3>E-Library Management System</h3>
-      A three-tier application for managing books, members, and book issuing, built with Flask and PostgreSQL and containerized with Docker.
-      <br /><br />
-      <strong>STACK</strong><br />
-      <code>Flask</code> <code>PostgreSQL</code><br />
-      <code>Docker</code> <code>Docker Compose</code> <code>AWS</code>
-      <br /><br />
-      <a href="https://github.com/sanikaparge/e-library-management-system">Explore repository ↗</a>
+      <h3>01 / E-Library Management System</h3>
+      <p>A three-tier library application for managing books, members, and book issuing.</p>
+      <p>
+        <code>Flask</code> <code>PostgreSQL</code><br />
+        <code>Docker</code> <code>Docker Compose</code> <code>AWS</code>
+      </p>
+      <a href="https://github.com/sanikaparge/e-library-management-system">View project →</a>
     </td>
     <td width="50%" valign="top">
-      <p><sub>PROJECT 02 &nbsp; / &nbsp; IN PROGRESS</sub></p>
-      <h3>KubeSentinel</h3>
-      A Kubernetes reliability lab exploring application health, replica management, resource controls, and Pod recovery.
-      <br /><br />
-      <strong>FOCUS</strong><br />
-      <code>Kubernetes</code> <code>Docker</code><br />
-      <code>Health Probes</code> <code>YAML</code>
-      <br /><br />
-      <i>Currently being developed. Repository link coming after publication.</i>
+      <h3>02 / KubeSentinel</h3>
+      <p>A Kubernetes reliability lab focused on workload health, replica management, resource limits, and Pod recovery.</p>
+      <p>
+        <code>Kubernetes</code> <code>Docker</code><br />
+        <code>YAML</code> <code>Health Probes</code>
+      </p>
+      <sub>In progress — repository link to be added after publication.</sub>
     </td>
   </tr>
 </table>
 
-<br />
-
-<h3 align="center">04 &nbsp; / &nbsp; HOW THE PIECES CONNECT</h3>
+### Infrastructure, connected
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws&theme=dark" alt="Linux, Docker, Kubernetes and AWS" />
 </p>
 
 <p align="center">
-  <samp>
-    LINUX &nbsp; → &nbsp; CONTAINERS &nbsp; → &nbsp; ORCHESTRATION &nbsp; → &nbsp; CLOUD
-  </samp>
+  <samp>LINUX → CONTAINERIZATION → ORCHESTRATION → CLOUD</samp>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2400&pause=800&color=94A3B8&center=true&vCenter=true&width=580&lines=Package+applications+with+Docker;Manage+workloads+with+Kubernetes;Deploy+and+operate+on+AWS" alt="Animated cloud engineering focus" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2400&pause=1000&color=7DD3FC&center=true&vCenter=true&width=580&lines=Package+applications+with+Docker;Manage+workloads+with+Kubernetes;Deploy+and+operate+on+AWS" alt="Infrastructure workflow" />
 </p>
 
-<br />
+---
+
+### GitHub activity
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=30363D" width="85%" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sanikaparge&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=60A5FA&text_color=C9D1D9" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanikaparge&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" alt="Most used languages" />
 </p>
 
-<h3 align="center">05 &nbsp; / &nbsp; GITHUB, IN MOTION</h3>
+### Let's connect
+
+Open to entry-level opportunities in Cloud, Linux, and DevOps engineering.
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=sanikaparge&show_icons=true&hide_border=true&bg_color=00000000&title_color=94A3B8&icon_color=38BDF8&text_color=9CA3AF&rank_icon=github" alt="GitHub statistics" />
-  &nbsp;
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanikaparge&layout=compact&hide_border=true&bg_color=00000000&title_color=94A3B8&text_color=9CA3AF" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sanikaparge&hide_border=true&background=00000000&ring=38BDF8&fire=818CF8&currStreakLabel=94A3B8&sideLabels=9CA3AF&dates=64748B" alt="GitHub contribution streak" />
-</p>
-
-<br />
-
-<h3 align="center">06 &nbsp; / &nbsp; WHAT'S NEXT</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2000&pause=600&color=94A3B8&center=true&vCenter=true&width=600&lines=Kubernetes+Networking+%26+Workloads;AWS+Cloud+Infrastructure;Terraform+%26+Infrastructure+as+Code;CI%2FCD+%26+Observability" alt="Current technical focus" />
-</p>
-
-<br />
-
-<h3 align="center">07 &nbsp; / &nbsp; OPEN CHANNEL</h3>
-
-<p align="center">
-  Interested in cloud infrastructure, Linux, containers, and DevOps opportunities?
+  <a href="https://www.linkedin.com/in/sanika-parge-b49827281/">
+    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sanika-parge-b49827281/"><img src="https://img.shields.io/badge/LET'S%20CONNECT-LinkedIn-64748B?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  &nbsp;
-  <a href="mailto:pargesanika13@gmail.com"><img src="https://img.shields.io/badge/SAY%20HELLO-Email-64748B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:06B6D4,50:123B62,100:07111F" width="100%" alt="" />
 </p>
 
-<p align="center">
-  <sub>ENGINEER WITH CURIOSITY. BUILD WITH INTENTION. IMPROVE CONTINUOUSLY.</sub>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:0F172A,50:334155,100:0EA5E9" />
-</p>
