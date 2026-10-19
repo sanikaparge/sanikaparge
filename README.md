@@ -1,10 +1,7 @@
 <!-- ========================================================= -->
 <!-- SANIKA PARGE | CLOUD & DEVOPS ENGINEERING PROFILE -->
 <!-- Save this file as README.md in the sanikaparge repository -->
-<!-- ========================================================= -->
-
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:070B17,25:0F2544,55:075985,80:0891B2,100:22D3EE&fontColor=FFFFFF&fontSize=48&fontAlignY=35&desc=Cloud%20%7C%20DevOps%20%7C%20Infrastructure&descSize=17&descAlignY=56&animation=fadeIn" alt="Sanika Parge Cloud and DevOps banner" />
 
 <br />
@@ -30,16 +27,12 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:22D3EE,50:3B82F6,100:8B5CF6" width="85%" alt="" />
 
 </div>
-
 <!-- ========================================================= -->
 <!-- INTRODUCTION -->
 <!-- ========================================================= -->
+<div align="center"
 
-<div align="center">
-
-## `whoami`
-
-### Cloud & DevOps Engineering
+### Cloud & DevOps Engineer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1200&color=93C5FD&center=true&vCenter=true&width=600&lines=Infrastructure+with+purpose;Automation+with+understanding;Projects+that+demonstrate+practical+skills" alt="Engineering principles" />
 
